@@ -1,5 +1,7 @@
 div{
-    background-color: blueviolet;
-    color: yellow;
-    font-family: 'Courier New', Courier, monospace;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
 }
